@@ -6,5 +6,4 @@
 	<bean id="helloWorld" class="com.mos.spring.beans.HelloWorld">
 		<property name="name" value="spring"></property>
 	</bean>
-
 </beans>
